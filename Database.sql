@@ -1,4 +1,5 @@
--- (Optional) CREATE DATABASE travel; USE travel;
+ CREATE DATABASE travel; 
+USE travel;
 
 CREATE TABLE IF NOT EXISTS CustomerDetails (
     CustomerID INT PRIMARY KEY,
